@@ -1,0 +1,6 @@
+*.fif filter=lfs diff=lfs merge=lfs -text
+*.vhdr filter=lfs diff=lfs merge=lfs -text
+*.edf filter=lfs diff=lfs merge=lfs -text
+*.vmrk filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+*.mgz filter=lfs diff=lfs merge=lfs -text
